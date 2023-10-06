@@ -1,7 +1,7 @@
 # Reverse_Shell
 ## v0.1 Beta
 
-Este es un ejmeplo simple escrito en Phyton de una Shell reversa, ire mejorando el codigo....
+Este es un ejemplo simple, escrito en Phyton de una Shell reversa, ire mejorando el codigo....
 
 ## Funcionamiento
 
@@ -9,3 +9,6 @@ Este es un ejmeplo simple escrito en Phyton de una Shell reversa, ire mejorando 
 * El cliente se ejecuta en la máquina objetivo y se conecta al servidor.
 * El servidor envía comandos al cliente.
 * El cliente ejecuta los comandos y envía la salida al servidor.
+
+## Website
+https://level23hacktools.com
